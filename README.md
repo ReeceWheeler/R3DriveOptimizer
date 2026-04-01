@@ -2,6 +2,7 @@
 
 **R3 Drive Optimizer** is a lightweight Windows utility for optimizing and defragmenting your drives. It features a clean green-on-black GUI, live drive stats, progress tracking, and logs, all while running silently in the background.
 
+![image alt](https://github.com/ReeceWheeler/R3DriveOptimizer/blob/main/Screenshot.png?raw=true)
 ---
 
 ## Features
