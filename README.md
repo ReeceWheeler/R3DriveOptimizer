@@ -20,7 +20,7 @@
 ### Python Version
 
 - Python 3.14 or higher is recommended
-- 
+  
 ### Required Modules
 Install the dependencies with pip:
 
