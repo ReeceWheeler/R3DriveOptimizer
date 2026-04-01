@@ -1,2 +1,27 @@
-# R3DriveOptimizer
-R3DriveOptimizer is a lightweight, retro-styled drive optimization tool for Windows. Inspired by classic BIOS aesthetics, it features a green-on-black interface, live progress updates, and real-time drive usage monitoring. Designed for simplicity and portability, it runs as a standalone executable - no Python or dependencies required.
+# R3 Drive Optimizer
+
+**R3 Drive Optimizer** is a lightweight Windows utility for optimizing and defragmenting your drives. It features a clean green-on-black GUI, live drive stats, progress tracking, and logs, all while running silently in the background.
+
+---
+
+## Features
+
+- Detects and lists all drives on your system
+- Displays live drive usage stats (total, free, and used space)
+- Runs Windows native defragmentation silently (no CMD window)
+- Scrollable log output for real-time tracking
+- Clean, user-friendly GUI
+- Requires administrator privileges
+- 
+---
+
+## Installation & Usage
+### Python Version
+
+- Python 3.14 or higher is recommended
+- 
+### Required Modules
+Install the dependencies with pip:
+
+```bash
+pip install psutil
